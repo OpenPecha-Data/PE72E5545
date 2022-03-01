@@ -1,0 +1,21 @@
+id: PE72E5545
+initial_creation_type: input
+source_metadata:
+  title: Brahmaśrīvyākaraṇa
+  language: bo
+  volumes:
+    db7fde190f4e44ffb2da7df46b60a8ec:
+      title: Colophon
+      base_file: Colophon.txt
+      work_id: W0BC3BB03
+    3068801c284b4d45847dcddfb4fe561a:
+      title: Preface
+      base_file: Preface.txt
+      work_id: W514BF1E2
+    027846b393bd4c439c75497a43f538d4:
+      title: Title
+      base_file: Title.txt
+      work_id: W2CB07C61
+  chapter_to_tile: {}
+created_at: '2022-03-01T21:19:34.067044'
+last_modified_at: '2022-03-01T21:19:34.067052'
